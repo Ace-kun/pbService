@@ -17,5 +17,5 @@ http://localhost:3000/users/deleteContact
 * #### Getcontact
 http://localhost:3000/users//getContact
 
-* #### ContactByNameOrEmail
+* #### GetContactByNameOrEmail
 http://localhost:3000/users/getContactByNameEmail
